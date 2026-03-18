@@ -112,3 +112,7 @@ Dry run: True
 * boto3
 
 
+<img width="1918" height="888" alt="Screenshot from 2026-03-18 11-52-22" src="https://github.com/user-attachments/assets/81802d25-cbee-47a2-9b5f-912a810045e6" />
+
+<img width="1918" height="888" alt="Screenshot from 2026-03-18 12-02-28" src="https://github.com/user-attachments/assets/55fc4bcc-bbdc-461e-bd24-b8db71549eef" />
+
